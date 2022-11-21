@@ -1,0 +1,15 @@
+C:\Users\Marina\Documents\DUMP_DR\World_Cup_DUMP\World_Cup_DUMP\bin\Debug\net6.0\World_Cup_DUMP.exe
+C:\Users\Marina\Documents\DUMP_DR\World_Cup_DUMP\World_Cup_DUMP\bin\Debug\net6.0\World_Cup_DUMP.deps.json
+C:\Users\Marina\Documents\DUMP_DR\World_Cup_DUMP\World_Cup_DUMP\bin\Debug\net6.0\World_Cup_DUMP.runtimeconfig.json
+C:\Users\Marina\Documents\DUMP_DR\World_Cup_DUMP\World_Cup_DUMP\bin\Debug\net6.0\World_Cup_DUMP.dll
+C:\Users\Marina\Documents\DUMP_DR\World_Cup_DUMP\World_Cup_DUMP\bin\Debug\net6.0\World_Cup_DUMP.pdb
+C:\Users\Marina\Documents\DUMP_DR\World_Cup_DUMP\World_Cup_DUMP\obj\Debug\net6.0\World_Cup_DUMP.csproj.AssemblyReference.cache
+C:\Users\Marina\Documents\DUMP_DR\World_Cup_DUMP\World_Cup_DUMP\obj\Debug\net6.0\World_Cup_DUMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Documents\DUMP_DR\World_Cup_DUMP\World_Cup_DUMP\obj\Debug\net6.0\World_Cup_DUMP.AssemblyInfoInputs.cache
+C:\Users\Marina\Documents\DUMP_DR\World_Cup_DUMP\World_Cup_DUMP\obj\Debug\net6.0\World_Cup_DUMP.AssemblyInfo.cs
+C:\Users\Marina\Documents\DUMP_DR\World_Cup_DUMP\World_Cup_DUMP\obj\Debug\net6.0\World_Cup_DUMP.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Documents\DUMP_DR\World_Cup_DUMP\World_Cup_DUMP\obj\Debug\net6.0\World_Cup_DUMP.dll
+C:\Users\Marina\Documents\DUMP_DR\World_Cup_DUMP\World_Cup_DUMP\obj\Debug\net6.0\refint\World_Cup_DUMP.dll
+C:\Users\Marina\Documents\DUMP_DR\World_Cup_DUMP\World_Cup_DUMP\obj\Debug\net6.0\World_Cup_DUMP.pdb
+C:\Users\Marina\Documents\DUMP_DR\World_Cup_DUMP\World_Cup_DUMP\obj\Debug\net6.0\World_Cup_DUMP.genruntimeconfig.cache
+C:\Users\Marina\Documents\DUMP_DR\World_Cup_DUMP\World_Cup_DUMP\obj\Debug\net6.0\ref\World_Cup_DUMP.dll
